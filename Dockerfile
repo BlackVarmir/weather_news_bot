@@ -2,17 +2,12 @@
 #  Dockerfile — Мінімальний образ для продакшн
 # ══════════════════════════════════════════════════════════════
 
-# Базовий образ: slim Python 3.12
+# Базовий образ: slim Python 3.13
 FROM python:3.13-slim
 
 # Метадані
 LABEL maintainer="blackvarmir@gmail.com"
 LABEL description="Weather & News Telegram Bot"
-
-# Встановлюємо системні залежності
-RUN apt-get update && apt-get install -y --no-install-recommends \
-    gcc \
-    && rm -rf /var/lib/apt/lists/*
 
 # Робоча директорія всередині контейнера
 WORKDIR /app
