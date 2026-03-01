@@ -1,0 +1,28 @@
+# Telegram бот
+aiogram==3.13.1
+
+# HTTP-клієнт (async)
+aiohttp==3.10.10
+
+# База даних
+greenlet==3.3.2
+sqlalchemy==2.0.36
+aiosqlite==0.20.0         # SQLite async драйвер
+asyncpg==0.30.0           # PostgreSQL async драйвер (для продакшн)
+
+# Шифрування
+cryptography==43.0.3
+
+# Геокодування
+geopy==2.4.1
+
+# Переклад
+googletrans==4.0.0rc1     # Безкоштовний (реверс-інжиніринг Google Translate)
+# deepl==1.18.0           # Розкоментувати якщо є ключ DeepL
+
+# Конфігурація
+python-dotenv==1.0.1
+
+# Тести
+pytest==8.3.4
+pytest-asyncio==0.24.0

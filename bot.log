@@ -1,0 +1,70 @@
+2026-03-01 01:58:25 | INFO     | __main__ | 🚀 Запуск бота...
+2026-03-01 01:59:48 | INFO     | __main__ | 🚀 Запуск бота...
+2026-03-01 02:04:02 | INFO     | __main__ | 🚀 Запуск бота...
+2026-03-01 02:04:03 | INFO     | database.repository | ✅ База даних ініціалізована.
+2026-03-01 02:04:04 | INFO     | __main__ | ✅ Бот запущено. Очікування повідомлень...
+2026-03-01 02:04:49 | INFO     | aiogram.dispatcher | Start polling
+2026-03-01 02:04:49 | INFO     | aiogram.dispatcher | Run polling for bot @test_bv_weather_news_bot id=8225898601 - 'Test Weather and News'
+2026-03-01 02:05:10 | INFO     | aiogram.event | Update id=990239929 is handled. Duration 196 ms by bot id=8225898601
+2026-03-01 02:05:17 | INFO     | aiogram.event | Update id=990239930 is handled. Duration 425 ms by bot id=8225898601
+2026-03-01 02:05:37 | INFO     | database.repository | Створено нового користувача: 672513783
+2026-03-01 02:05:37 | INFO     | aiogram.event | Update id=990239931 is handled. Duration 418 ms by bot id=8225898601
+2026-03-01 02:05:46 | INFO     | aiogram.event | Update id=990239932 is handled. Duration 376 ms by bot id=8225898601
+2026-03-01 02:06:02 | INFO     | aiogram.event | Update id=990239933 is handled. Duration 646 ms by bot id=8225898601
+2026-03-01 02:15:52 | INFO     | aiogram.dispatcher | Polling stopped
+2026-03-01 02:15:52 | INFO     | __main__ | 🛑 Бот зупинено.
+2026-03-01 02:15:52 | INFO     | aiogram.dispatcher | Polling stopped for bot @test_bv_weather_news_bot id=8225898601 - 'Test Weather and News'
+2026-03-01 02:15:52 | INFO     | __main__ | Зупинено вручну (Ctrl+C).
+2026-03-01 02:16:05 | INFO     | __main__ | 🚀 Запуск бота...
+2026-03-01 02:16:05 | INFO     | database.repository | ✅ База даних ініціалізована.
+2026-03-01 02:16:05 | INFO     | __main__ | ✅ Бот запущено. Очікування повідомлень...
+2026-03-01 02:16:06 | INFO     | aiogram.dispatcher | Start polling
+2026-03-01 02:16:06 | INFO     | aiogram.dispatcher | Run polling for bot @test_bv_weather_news_bot id=8225898601 - 'Test Weather and News'
+2026-03-01 02:16:19 | INFO     | aiogram.event | Update id=990239934 is handled. Duration 179 ms by bot id=8225898601
+2026-03-01 02:16:27 | INFO     | aiogram.event | Update id=990239935 is handled. Duration 60 ms by bot id=8225898601
+2026-03-01 02:16:37 | INFO     | aiogram.event | Update id=990239936 is handled. Duration 347 ms by bot id=8225898601
+2026-03-01 02:16:41 | INFO     | aiogram.event | Update id=990239937 is handled. Duration 361 ms by bot id=8225898601
+2026-03-01 02:16:49 | INFO     | aiogram.event | Update id=990239938 is handled. Duration 4975 ms by bot id=8225898601
+2026-03-01 03:07:14 | INFO     | aiogram.event | Update id=990239939 is not handled. Duration 2 ms by bot id=8225898601
+2026-03-01 03:07:57 | INFO     | aiogram.event | Update id=990239940 is not handled. Duration 2 ms by bot id=8225898601
+2026-03-01 03:36:10 | INFO     | aiogram.event | Update id=990239941 is not handled. Duration 1 ms by bot id=8225898601
+2026-03-01 03:36:19 | INFO     | aiogram.event | Update id=990239942 is handled. Duration 183 ms by bot id=8225898601
+2026-03-01 03:36:35 | INFO     | aiogram.event | Update id=990239943 is handled. Duration 279 ms by bot id=8225898601
+2026-03-01 03:36:43 | INFO     | aiogram.event | Update id=990239944 is handled. Duration 96 ms by bot id=8225898601
+2026-03-01 03:36:52 | INFO     | aiogram.event | Update id=990239945 is handled. Duration 63 ms by bot id=8225898601
+2026-03-01 03:37:03 | INFO     | aiogram.event | Update id=990239946 is handled. Duration 440 ms by bot id=8225898601
+2026-03-01 03:37:09 | INFO     | aiogram.event | Update id=990239947 is handled. Duration 348 ms by bot id=8225898601
+2026-03-01 03:37:15 | INFO     | aiogram.event | Update id=990239948 is handled. Duration 707 ms by bot id=8225898601
+2026-03-01 03:37:29 | INFO     | aiogram.dispatcher | Polling stopped
+2026-03-01 03:37:30 | INFO     | __main__ | 🛑 Бот зупинено.
+2026-03-01 03:37:30 | INFO     | aiogram.dispatcher | Polling stopped for bot @test_bv_weather_news_bot id=8225898601 - 'Test Weather and News'
+2026-03-01 03:37:30 | INFO     | __main__ | Зупинено вручну (Ctrl+C).
+2026-03-01 03:44:02 | INFO     | __main__ | 🚀 Запуск бота...
+2026-03-01 03:44:03 | INFO     | database.repository | ✅ База даних ініціалізована.
+2026-03-01 03:44:03 | INFO     | __main__ | ✅ Бот запущено. Очікування повідомлень...
+2026-03-01 03:44:03 | INFO     | aiogram.dispatcher | Start polling
+2026-03-01 03:44:03 | INFO     | aiogram.dispatcher | Run polling for bot @test_bv_weather_news_bot id=8225898601 - 'Test Weather and News'
+2026-03-01 03:44:15 | INFO     | aiogram.event | Update id=990239949 is handled. Duration 188 ms by bot id=8225898601
+2026-03-01 03:44:23 | INFO     | aiogram.event | Update id=990239950 is handled. Duration 72 ms by bot id=8225898601
+2026-03-01 03:44:25 | INFO     | aiogram.event | Update id=990239951 is handled. Duration 218 ms by bot id=8225898601
+2026-03-01 03:44:30 | INFO     | aiogram.event | Update id=990239952 is handled. Duration 364 ms by bot id=8225898601
+2026-03-01 03:44:44 | INFO     | aiogram.event | Update id=990239953 is handled. Duration 8975 ms by bot id=8225898601
+2026-03-01 03:44:51 | INFO     | aiogram.event | Update id=990239954 is handled. Duration 135 ms by bot id=8225898601
+2026-03-01 03:44:57 | INFO     | aiogram.event | Update id=990239955 is handled. Duration 129 ms by bot id=8225898601
+2026-03-01 03:52:05 | INFO     | aiogram.event | Update id=990239956 is handled. Duration 155 ms by bot id=8225898601
+2026-03-01 03:52:16 | INFO     | aiogram.event | Update id=990239957 is not handled. Duration 3 ms by bot id=8225898601
+2026-03-01 03:52:26 | INFO     | aiogram.dispatcher | Polling stopped
+2026-03-01 03:52:26 | INFO     | __main__ | 🛑 Бот зупинено.
+2026-03-01 03:52:26 | INFO     | aiogram.dispatcher | Polling stopped for bot @test_bv_weather_news_bot id=8225898601 - 'Test Weather and News'
+2026-03-01 03:52:26 | INFO     | __main__ | Зупинено вручну (Ctrl+C).
+2026-03-01 03:52:34 | INFO     | __main__ | 🚀 Запуск бота...
+2026-03-01 03:52:35 | INFO     | database.repository | ✅ База даних ініціалізована.
+2026-03-01 03:52:35 | INFO     | __main__ | ✅ Бот запущено. Очікування повідомлень...
+2026-03-01 03:52:35 | INFO     | aiogram.dispatcher | Start polling
+2026-03-01 03:52:35 | INFO     | aiogram.dispatcher | Run polling for bot @test_bv_weather_news_bot id=8225898601 - 'Test Weather and News'
+2026-03-01 03:52:50 | INFO     | aiogram.event | Update id=990239958 is handled. Duration 195 ms by bot id=8225898601
+2026-03-01 03:52:53 | INFO     | aiogram.event | Update id=990239959 is handled. Duration 72 ms by bot id=8225898601
+2026-03-01 03:53:39 | INFO     | aiogram.dispatcher | Polling stopped
+2026-03-01 03:53:39 | INFO     | __main__ | 🛑 Бот зупинено.
+2026-03-01 03:53:39 | INFO     | aiogram.dispatcher | Polling stopped for bot @test_bv_weather_news_bot id=8225898601 - 'Test Weather and News'
+2026-03-01 03:53:39 | INFO     | __main__ | Зупинено вручну (Ctrl+C).
